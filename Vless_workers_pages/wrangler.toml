@@ -1,4 +1,2 @@
-[workers]
-name = "Worker"
-script = "_worker.js"
-route = "/"
+name = "my-worker"
+main = "./_worker.js"
