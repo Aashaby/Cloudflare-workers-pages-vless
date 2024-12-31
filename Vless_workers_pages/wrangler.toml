@@ -1,2 +1,4 @@
 name = "worker-long-tooth-7d33"
 main = "./_worker.js"
+[observability.logs]
+enabled = true
