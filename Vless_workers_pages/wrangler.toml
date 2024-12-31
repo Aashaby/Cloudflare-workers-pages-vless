@@ -1,0 +1,4 @@
+[workers]
+name = "Worker"
+script = "_worker.js"
+route = "/"
