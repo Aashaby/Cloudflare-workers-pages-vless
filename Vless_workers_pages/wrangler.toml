@@ -1,2 +1,2 @@
-name = "my-worker"
+name = "worker-long-tooth-7d33"
 main = "./_worker.js"
