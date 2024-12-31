@@ -1,2 +1,3 @@
 name = "worker-long-tooth-7d33"
 main = "./_worker.js"
+compatibility_date = "2024-12-31"
