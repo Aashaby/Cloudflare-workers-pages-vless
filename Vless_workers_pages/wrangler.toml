@@ -1,6 +1,6 @@
-name = "worker-long-tooth-7d33"
+name = "vless"
 main = "./_worker.js"
 [observability.logs]
 enabled = true
 [vars]
-uuid = "faaa2bec-9b32-487e-8c1e-12f83f54b82c"
+uuid = "gashaby-bzzz-abah-fccx-ddaizzebcezz"
