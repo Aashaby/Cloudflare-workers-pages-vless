@@ -1,0 +1,8 @@
+name = "micky_mouse"
+main = "./_worker.js"
+[observability.logs]
+enabled = true
+[vars]
+uuid = "faaa2bec-9b32-487e-8c1e-12f83f54b82c"
+[placement]
+mode = "smart"
