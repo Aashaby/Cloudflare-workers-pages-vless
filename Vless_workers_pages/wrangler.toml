@@ -1,4 +1,4 @@
-name = "micky-mouse"
+name = "mikey-mouse"
 main = "./_worker.js"
 [observability.logs]
 enabled = true
