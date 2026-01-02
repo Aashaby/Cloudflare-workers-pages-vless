@@ -1,0 +1,6 @@
+name = "trojan"
+main = "./_worker.js"
+[observability.logs]
+enabled = true
+[placement]
+mode = "smart"
